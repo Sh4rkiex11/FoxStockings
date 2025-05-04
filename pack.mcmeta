@@ -1,0 +1,10 @@
+{
+    "pack": {
+        "pack_format": 48,
+        "description": "adds stockings to foxes.",
+        "version": {
+            "mc": "1.21.5",
+            "url": "now nothing:D"
+        }
+    }
+}
